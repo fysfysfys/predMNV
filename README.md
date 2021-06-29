@@ -1,5 +1,5 @@
 # predWNV
-predict the number of West Nile virus infected human
+Predicting the number of West Nile virus infected human. 
 We developed a model to predict the number of West Nile virus infected human. 
 First, we collect data from https://westnile.ca.gov/, which offers number of West Nile virus infections in California by weeks. 
 Then we found that the number of infected human was strongly correlated with the infected dead bird, Mosquito and Sentinel Chickens. 
